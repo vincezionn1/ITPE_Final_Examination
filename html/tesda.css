@@ -249,7 +249,7 @@ body {
 .thumb:hover { border-color: var(--gold); }
 .thumb.active { border-color: var(--gold); background: var(--gold-dim); }
 
-/* ── Offers Bar ── */
+
 .offers-bar {
   display: flex;
   align-items: center;
@@ -421,7 +421,6 @@ body {
   color: var(--cyan);
 }
 
-/* ── Info Rows ── */
 .info-rows {
   background: var(--surface);
   border-bottom: 1px solid var(--border);
